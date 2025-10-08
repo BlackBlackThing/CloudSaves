@@ -1,0 +1,2477 @@
+Mono path[0] = 'c:/program files (x86)/steam/steamapps/common/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'c:/program files (x86)/steam/steamapps/common/Hollow Knight Silksong/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
+[Subsystems] Discovering subsystems at path c:/program files (x86)/steam/steamapps/common/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.8142
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.160 seconds
+- Finished resetting the current domain, in  0.003 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.318800 ms
+Steam initializing
+Steam logged in as BlackBlackThing
+Selected online subsystem SteamOnlineSubsystem
+Steam stats received.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
+UnloadTime: 1.231900 ms
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find GameCameras, make sure one exists in the scene.
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6194.
+Total: 12.696100 ms (FindLiveObjects: 0.484500 ms CreateObjectMapping: 0.235500 ms MarkObjects: 11.891100 ms  DeleteObjects: 0.081600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13424.
+Total: 13.746800 ms (FindLiveObjects: 0.856400 ms CreateObjectMapping: 0.606900 ms MarkObjects: 12.229300 ms  DeleteObjects: 0.053500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Joystick connected ("Controller (XBOX 360 For Windows)").
+Couldn't find GameCameras, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+UnloadTime: 6.932000 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67006.
+Total: 44.655300 ms (FindLiveObjects: 5.211200 ms CreateObjectMapping: 3.314800 ms MarkObjects: 35.490600 ms  DeleteObjects: 0.638200 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Opening_Sequence requires manual fixing.
+Failed to find tilemap in Opening_Sequence entirely.
+Opening sequence changing sequences.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 565)
+Unloading 281 unused Assets to reduce memory usage. Loaded Objects now: 92865.
+Total: 55.385400 ms (FindLiveObjects: 9.570100 ms CreateObjectMapping: 4.435200 ms MarkObjects: 39.918400 ms  DeleteObjects: 1.461300 ms)
+
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Music).
+Opening sequence changing sequences.
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-04119a77865892709af3e65442e2f32a/CAB-04119a77865892709af3e65442e2f32a.resource
+Opening sequence changing sequences.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+UnloadTime: 1.638400 ms
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 2589 unused Assets to reduce memory usage. Loaded Objects now: 128574.
+Total: 91.046400 ms (FindLiveObjects: 9.604100 ms CreateObjectMapping: 5.947800 ms MarkObjects: 70.180800 ms  DeleteObjects: 5.312500 ms)
+
+Free cursor created at position: (0.00, 0.00)
+Cursor parent: MapContent
+Cursor active: True
+=== DÉBUT DE L'ASSOCIATION DES SCÈNES ===
+Total de locations à traiter: 1898
+Méthode: Smart
+Préférer scènes mappées: False
+Calibration terminée avec 6 points
+Coefficients X: aX=154.286400, bX=0.072283, cX=-398.968300
+Coefficients Y: aY=-0.767513, bY=154.975000, cY=342.780100
+=== Test de précision de la calibration ===
+Point Map(6.70, 4.04) -> Calculé(635.2, 963.1) vs Attendu(641.7, 963.9) Erreur: (-6.42, -0.77)
+Point Map(4.33, 13.13) -> Calculé(270.8, 2374.0) vs Attendu(263.3, 2372.7) Erreur: (7.53, 1.38)
+Point Map(7.86, 8.31) -> Calculé(814.6, 1624.9) vs Attendu(807.1, 1623.6) Erreur: (7.54, 1.33)
+Point Map(16.41, 8.90) -> Calculé(2133.8, 1709.1) vs Attendu(2139.4, 1710.4) Erreur: (-5.61, -1.25)
+Point Map(-11.04, 4.73) -> Calculé(-2101.3, 1084.3) vs Attendu(-2090.6, 1086.2) Erreur: (-10.67, -1.95)
+Point Map(-9.75, -4.59) -> Calculé(-1903.8, -361.7) vs Attendu(-1911.4, -363.0) Erreur: (7.65, 1.25)
+Erreur moyenne: X=7.57, Y=1.32
+Erreur maximale: X=10.67, Y=1.95
+Erreur importante détectée! Vérifiez les points de calibration.
+TryGetSpriteBounds a retourné false pour Bone_01c_top
+TryGetSpriteBounds a retourné false pour Bone_06
+TryGetSpriteBounds a retourné false pour Bone_06_join
+TryGetSpriteBounds a retourné false pour Bone_10
+TryGetSpriteBounds a retourné false pour Bone_10_left
+TryGetSpriteBounds a retourné false pour Bone_10_act3_bench
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bone_12
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bone_15
+TryGetSpriteBounds a retourné false pour Bone_16_top
+TryGetSpriteBounds a retourné false pour Bone_17
+TryGetSpriteBounds a retourné false pour Bone_18
+TryGetSpriteBounds a retourné false pour Bone_18_top
+TryGetSpriteBounds a retourné false pour Bone_19
+TryGetSpriteBounds a retourné false pour Bone_07_bot_left
+TryGetSpriteBounds a retourné false pour Greymoor_01_bot
+TryGetSpriteBounds a retourné false pour Greymoor_01_top
+TryGetSpriteBounds a retourné false pour Greymoor_02_top_right
+TryGetSpriteBounds a retourné false pour Greymoor_02_top
+TryGetSpriteBounds a retourné false pour Greymoor_03_top
+TryGetSpriteBounds a retourné false pour Greymoor_03_mid_right
+TryGetSpriteBounds a retourné false pour Greymoor_04_mid
+TryGetSpriteBounds a retourné false pour Greymoor_04_top
+TryGetSpriteBounds a retourné false pour Greymoor_06_mid_top
+TryGetSpriteBounds a retourné false pour Greymoor_06_top
+TryGetSpriteBounds a retourné false pour Greymoor_06_top_left
+TryGetSpriteBounds a retourné false pour Greymoor_10
+TryGetSpriteBounds a retourné false pour Greymoor_11
+TryGetSpriteBounds a retourné false pour Greymoor_11_top
+TryGetSpriteBounds a retourné false pour Greymoor_12
+TryGetSpriteBounds a retourné false pour Greymoor_15_top
+TryGetSpriteBounds a retourné false pour Greymoor_15b_bot_right
+TryGetSpriteBounds a retourné false pour Greymoor_15b_2
+TryGetSpriteBounds a retourné false pour Greymoor_16
+TryGetSpriteBounds a retourné false pour Greymoor_17
+TryGetSpriteBounds a retourné false pour Greymoor_17_bot
+TryGetSpriteBounds a retourné false pour Greymoor_20c
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Greymoor_21
+TryGetSpriteBounds a retourné false pour Greymoor_22
+TryGetSpriteBounds a retourné false pour Greymoor_24
+TryGetSpriteBounds a retourné false pour Wisp_03
+TryGetSpriteBounds a retourné false pour Wisp_03_2
+TryGetSpriteBounds a retourné false pour Wisp_06
+TryGetSpriteBounds a retourné false pour Wisp_06_secret
+TryGetSpriteBounds a retourné false pour Bellway_04_bot_left
+TryGetSpriteBounds a retourné false pour Halfway_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Ant_08
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Room_CrowCourt
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Room_CrowCourt_02
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bellshrine_03
+TryGetSpriteBounds a retourné false pour Shellwood_04c
+TryGetSpriteBounds a retourné false pour Shellwood_08
+TryGetSpriteBounds a retourné false pour Shellwood_08c
+TryGetSpriteBounds a retourné false pour Shellwood_10_top
+TryGetSpriteBounds a retourné false pour Shellwood_11
+TryGetSpriteBounds a retourné false pour Shellwood_13b
+TryGetSpriteBounds a retourné false pour Shellwood_14
+TryGetSpriteBounds a retourné false pour Shellwood_15
+TryGetSpriteBounds a retourné false pour Shellwood_19
+TryGetSpriteBounds a retourné false pour Shellwood_18
+TryGetSpriteBounds a retourné false pour Shellwood_25
+TryGetSpriteBounds a retourné false pour Shellwood_25_right
+TryGetSpriteBounds a retourné false pour Shellwood_26
+TryGetSpriteBounds a retourné false pour Shellwood_26_2
+TryGetSpriteBounds a retourné false pour Room_Witch
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Mosstown_03
+TryGetSpriteBounds a retourné false pour Mosstown_03_top
+TryGetSpriteBounds a retourné false pour Mosstown_03_bot
+TryGetSpriteBounds a retourné false pour Belltown_Room_shellwood
+TryGetSpriteBounds a retourné false pour Shellwood_25b
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Mosstown_03_join_left
+TryGetSpriteBounds a retourné false pour Coral_23_secret
+TryGetSpriteBounds a retourné false pour Coral_Tower_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Coral_Tower_01_Bench
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Coral_29
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Coral_35_top_break_base
+TryGetSpriteBounds a retourné false pour Coral_35b_secret
+TryGetSpriteBounds a retourné false pour Coral_38
+TryGetSpriteBounds a retourné false pour Coral_38_bot
+TryGetSpriteBounds a retourné false pour Bellshrine_Coral
+TryGetSpriteBounds a retourné false pour Coral_39
+TryGetSpriteBounds a retourné false pour Coral_41
+TryGetSpriteBounds a retourné false pour Song_01_secret
+TryGetSpriteBounds a retourné false pour Song_01_bot
+TryGetSpriteBounds a retourné false pour Song_01b_left
+TryGetSpriteBounds a retourné false pour Song_03
+TryGetSpriteBounds a retourné false pour Song_03_top
+TryGetSpriteBounds a retourné false pour Song_04_bot
+TryGetSpriteBounds a retourné false pour Song_04_top
+TryGetSpriteBounds a retourné false pour Song_04
+TryGetSpriteBounds a retourné false pour Song_08
+TryGetSpriteBounds a retourné false pour Song_09_2
+TryGetSpriteBounds a retourné false pour Song_10
+TryGetSpriteBounds a retourné false pour Song_10_right
+TryGetSpriteBounds a retourné false pour Song_10_shortcut
+TryGetSpriteBounds a retourné false pour Song_10_bath
+TryGetSpriteBounds a retourné false pour Song_10_bot
+TryGetSpriteBounds a retourné false pour Song_11_2
+TryGetSpriteBounds a retourné false pour Song_11_3
+TryGetSpriteBounds a retourné false pour Song_11_cap
+TryGetSpriteBounds a retourné false pour Song_15
+TryGetSpriteBounds a retourné false pour Song_15_top
+TryGetSpriteBounds a retourné false pour Song_18
+TryGetSpriteBounds a retourné false pour Song_18_2
+TryGetSpriteBounds a retourné false pour Song_18_3
+TryGetSpriteBounds a retourné false pour Song_26
+TryGetSpriteBounds a retourné false pour Hang_01
+TryGetSpriteBounds a retourné false pour Hang_01_2
+TryGetSpriteBounds a retourné false pour Under_07b_bot
+TryGetSpriteBounds a retourné false pour Library_03_tunnel
+TryGetSpriteBounds a retourné false pour Bellway_City_b
+TryGetSpriteBounds a retourné false pour Enclave_bridge_left
+TryGetSpriteBounds a retourné false pour Library_04_top_enclave
+TryGetSpriteBounds a retourné false pour Song_Enclave_Tube
+TryGetSpriteBounds a retourné false pour Song_25_top_left
+TryGetSpriteBounds a retourné false pour Library_02_top
+TryGetSpriteBounds a retourné false pour Bellshrine_Enclave
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Slab_01
+TryGetSpriteBounds a retourné false pour Slab_02
+TryGetSpriteBounds a retourné false pour Slab_03_mid
+TryGetSpriteBounds a retourné false pour Slab_03b
+TryGetSpriteBounds a retourné false pour Slab_03_basement
+TryGetSpriteBounds a retourné false pour Slab_05
+TryGetSpriteBounds a retourné false pour Slab_04
+TryGetSpriteBounds a retourné false pour Slab_06
+TryGetSpriteBounds a retourné false pour Slab_07
+TryGetSpriteBounds a retourné false pour Slab_08
+TryGetSpriteBounds a retourné false pour Slab_08_top
+TryGetSpriteBounds a retourné false pour Slab_10b
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Slab_10c
+TryGetSpriteBounds a retourné false pour Slab_12
+TryGetSpriteBounds a retourné false pour Slab_13
+TryGetSpriteBounds a retourné false pour Slab_13_3
+TryGetSpriteBounds a retourné false pour Slab_16b
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Slab_16_bench
+TryGetSpriteBounds a retourné false pour Slab_17
+TryGetSpriteBounds a retourné false pour Slab_18
+TryGetSpriteBounds a retourné false pour Slab_19b
+TryGetSpriteBounds a retourné false pour Slab_19b_top
+TryGetSpriteBounds a retourné false pour Slab_20_right
+TryGetSpriteBounds a retourné false pour Slab_21_left
+TryGetSpriteBounds a retourné false pour Slab_23_bottom
+TryGetSpriteBounds a retourné false pour Peak_01_right_mid
+TryGetSpriteBounds a retourné false pour Slab_Cell
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Slab_Cell_Creature
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Slab_03_basement_shortcut
+TryGetSpriteBounds a retourné false pour Dust_Barb
+TryGetSpriteBounds a retourné false pour Dust_Maze_08_completed
+TryGetSpriteBounds a retourné false pour Dust_06_top
+TryGetSpriteBounds a retourné false pour Dust_10b
+TryGetSpriteBounds a retourné false pour Dust_11
+TryGetSpriteBounds a retourné false pour Dust_11_right
+TryGetSpriteBounds a retourné false pour Dust_11_bot
+TryGetSpriteBounds a retourné false pour Dust_Chef
+TryGetSpriteBounds a retourné false pour Dust_Chef_b
+TryGetSpriteBounds a retourné false pour Dust_05_2
+TryGetSpriteBounds a retourné false pour Dust_06_right
+TryGetSpriteBounds a retourné false pour Dust_Shack
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Belltown_04
+TryGetSpriteBounds a retourné false pour Belltown_06_fisher
+TryGetSpriteBounds a retourné false pour Belltown_06_top
+TryGetSpriteBounds a retourné false pour Belltown_Shrine
+TryGetSpriteBounds a retourné false pour Belltown_basement
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Belltown_basement_03_2
+TryGetSpriteBounds a retourné false pour Belltown_basement_03_3
+TryGetSpriteBounds a retourné false pour Belltown_Room_Relic
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Belltown_Room_Spare
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Belltown_basement_03_4
+TryGetSpriteBounds a retourné false pour Belltown_Room_pinsmith
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Belltown_Room_Fisher
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Ant_05b
+TryGetSpriteBounds a retourné false pour Ant_05c_top_right
+TryGetSpriteBounds a retourné false pour Ant_09
+TryGetSpriteBounds a retourné false pour Ant_19
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Ant_Merchant_mid
+TryGetSpriteBounds a retourné false pour Ant_Merchant_left
+TryGetSpriteBounds a retourné false pour Bellway_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bonetown_top_left
+TryGetSpriteBounds a retourné false pour Bonegrave
+TryGetSpriteBounds a retourné false pour Bonegrave_Gate
+TryGetSpriteBounds a retourné false pour Chapel_Wanderer
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Aspid_01
+TryGetSpriteBounds a retourné false pour Aspid_01_top
+TryGetSpriteBounds a retourné false pour Aspid_01_mid
+TryGetSpriteBounds a retourné false pour Coral_19_base
+TryGetSpriteBounds a retourné false pour Bone_05b_right
+TryGetSpriteBounds a retourné false pour Bone_11b
+TryGetSpriteBounds a retourné false pour Mosstown_02c
+TryGetSpriteBounds a retourné false pour Bonegrave_top
+TryGetSpriteBounds a retourné false pour Mosstown_02_left
+TryGetSpriteBounds a retourné false pour Bone_Steel_Servant
+TryGetSpriteBounds a retourné false pour Tut_01_chest
+TryGetSpriteBounds a retourné false pour Tut_04
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dock_02
+TryGetSpriteBounds a retourné false pour Dock_02_bot_left
+TryGetSpriteBounds a retourné false pour Dock_02_shortcut
+TryGetSpriteBounds a retourné false pour Dock_02b
+TryGetSpriteBounds a retourné false pour Dock_02b_bot
+TryGetSpriteBounds a retourné false pour Dock_02b_top
+TryGetSpriteBounds a retourné false pour Dock_02b_bot
+TryGetSpriteBounds a retourné false pour Dock_02b_gate
+TryGetSpriteBounds a retourné false pour Dock_02_top
+TryGetSpriteBounds a retourné false pour Dock_03
+TryGetSpriteBounds a retourné false pour Dock_03c
+TryGetSpriteBounds a retourné false pour Dock_03c_2
+TryGetSpriteBounds a retourné false pour Dock_03d
+TryGetSpriteBounds a retourné false pour Dock_03_top_right
+TryGetSpriteBounds a retourné false pour Dock_04_sauna_exit
+TryGetSpriteBounds a retourné false pour Dock_06_Church_Bench
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dock_06_Church_bottom
+TryGetSpriteBounds a retourné false pour Dock_08_2
+TryGetSpriteBounds a retourné false pour Dock_09
+TryGetSpriteBounds a retourné false pour Dock_10
+TryGetSpriteBounds a retourné false pour Dock_11
+TryGetSpriteBounds a retourné false pour Dock_12
+TryGetSpriteBounds a retourné false pour Dock_12_top
+TryGetSpriteBounds a retourné false pour Dock_13
+TryGetSpriteBounds a retourné false pour Dock_14
+TryGetSpriteBounds a retourné false pour Dock_15
+TryGetSpriteBounds a retourné false pour Dock_15_secret
+TryGetSpriteBounds a retourné false pour Dock_16
+TryGetSpriteBounds a retourné false pour Bellway_02_left
+TryGetSpriteBounds a retourné false pour Abyss_09_top
+TryGetSpriteBounds a retourné false pour Bone_East_04
+TryGetSpriteBounds a retourné false pour Bone_East_04_bot
+TryGetSpriteBounds a retourné false pour Bone_East_04b
+TryGetSpriteBounds a retourné false pour Bone_East_04c
+TryGetSpriteBounds a retourné false pour Room_Diving_Bell
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bellway_03_b
+TryGetSpriteBounds a retourné false pour Bellway_03_c
+TryGetSpriteBounds a retourné false pour Bone_East_09
+TryGetSpriteBounds a retourné false pour Bone_East_09b
+TryGetSpriteBounds a retourné false pour Bone_East_10_Gate
+TryGetSpriteBounds a retourné false pour Bone_East_10_Room
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bone_East_10_Church
+TryGetSpriteBounds a retourné false pour Bone_East_10_top_right
+TryGetSpriteBounds a retourné false pour Bone_East_11_top
+TryGetSpriteBounds a retourné false pour Bone_East_11_connection
+TryGetSpriteBounds a retourné false pour Bone_East_14
+TryGetSpriteBounds a retourné false pour Bone_East_14_2
+TryGetSpriteBounds a retourné false pour Bone_East_14b
+TryGetSpriteBounds a retourné false pour Bone_East_14b_lava_room
+TryGetSpriteBounds a retourné false pour Bone_East_LavaChallenge
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bone_East_15_top_right
+TryGetSpriteBounds a retourné false pour Bone_East_16
+TryGetSpriteBounds a retourné false pour Bone_East_17
+TryGetSpriteBounds a retourné false pour Bone_East_17_top
+TryGetSpriteBounds a retourné false pour Bone_East_17b
+TryGetSpriteBounds a retourné false pour Bone_East_17b_join
+TryGetSpriteBounds a retourné false pour Bone_East_18
+TryGetSpriteBounds a retourné false pour Bone_East_18b
+TryGetSpriteBounds a retourné false pour Bone_East_18c
+TryGetSpriteBounds a retourné false pour Bone_East_18b_right
+TryGetSpriteBounds a retourné false pour Bone_East_18b_bot
+TryGetSpriteBounds a retourné false pour Bone_East_18b_bot_left
+TryGetSpriteBounds a retourné false pour Bone_East_20
+TryGetSpriteBounds a retourné false pour Bone_East_24
+TryGetSpriteBounds a retourné false pour Bone_East_25
+TryGetSpriteBounds a retourné false pour Bone_East_25_right
+TryGetSpriteBounds a retourné false pour Ant_Queen
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Bone_East_26
+TryGetSpriteBounds a retourné false pour Bone_East_27
+TryGetSpriteBounds a retourné false pour Bone_East_27_top
+TryGetSpriteBounds a retourné false pour Bone_East_Umbrella
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dock_03b
+TryGetSpriteBounds a retourné false pour Dock_03b_2
+TryGetSpriteBounds a retourné false pour Dock_03b_left
+TryGetSpriteBounds a retourné false pour Bone_East_Weavehome
+TryGetSpriteBounds a retourné false pour Bone_East_Weavehome_Basement
+TryGetSpriteBounds a retourné false pour Sprintmaster_Cave
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Weave_03
+TryGetSpriteBounds a retourné false pour Weave_03_mid
+TryGetSpriteBounds a retourné false pour Weave_03_left
+TryGetSpriteBounds a retourné false pour Weave_05b
+TryGetSpriteBounds a retourné false pour Weave_07_left
+TryGetSpriteBounds a retourné false pour Weave_08
+TryGetSpriteBounds a retourné false pour Weave_08_bot_right
+TryGetSpriteBounds a retourné false pour Weave_13
+TryGetSpriteBounds a retourné false pour Weave_11_top
+TryGetSpriteBounds a retourné false pour Weave_14
+TryGetSpriteBounds a retourné false pour Library_02
+TryGetSpriteBounds a retourné false pour Library_03
+TryGetSpriteBounds a retourné false pour Library_03_right
+TryGetSpriteBounds a retourné false pour Library_03_top
+TryGetSpriteBounds a retourné false pour Library_04 _bot
+TryGetSpriteBounds a retourné false pour Library_04_top
+TryGetSpriteBounds a retourné false pour Library_05_3
+TryGetSpriteBounds a retourné false pour Library_06_top_right
+TryGetSpriteBounds a retourné false pour Library_07
+TryGetSpriteBounds a retourné false pour Library_08
+TryGetSpriteBounds a retourné false pour Library_08_right
+TryGetSpriteBounds a retourné false pour Library_09
+TryGetSpriteBounds a retourné false pour Library_09_mid
+TryGetSpriteBounds a retourné false pour Library_09_top
+TryGetSpriteBounds a retourné false pour Library_10
+TryGetSpriteBounds a retourné false pour Library_10_top
+TryGetSpriteBounds a retourné false pour Library_14
+TryGetSpriteBounds a retourné false pour Library_15
+TryGetSpriteBounds a retourné false pour Library_16
+TryGetSpriteBounds a retourné false pour Library_04_top_right
+TryGetSpriteBounds a retourné false pour Clover_02c_top
+TryGetSpriteBounds a retourné false pour Clover_02c_bot_right
+TryGetSpriteBounds a retourné false pour Clover_03
+TryGetSpriteBounds a retourné false pour Clover_05c
+TryGetSpriteBounds a retourné false pour Clover_06
+TryGetSpriteBounds a retourné false pour Clover_04b
+TryGetSpriteBounds a retourné false pour Clover_04b_top
+TryGetSpriteBounds a retourné false pour Clover_10
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Clover_10_web
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Clover_11
+TryGetSpriteBounds a retourné false pour Clover_16
+TryGetSpriteBounds a retourné false pour Clover_16_left
+TryGetSpriteBounds a retourné false pour Clover_16_right
+TryGetSpriteBounds a retourné false pour Clover_18
+TryGetSpriteBounds a retourné false pour Clover_18_right
+TryGetSpriteBounds a retourné false pour Clover_19
+TryGetSpriteBounds a retourné false pour Clover_21
+TryGetSpriteBounds a retourné false pour Under_03_2
+TryGetSpriteBounds a retourné false pour Under_03d
+TryGetSpriteBounds a retourné false pour Under_03d_join
+TryGetSpriteBounds a retourné false pour Under_05_2
+TryGetSpriteBounds a retourné false pour Under_07c
+TryGetSpriteBounds a retourné false pour Under_08_b
+TryGetSpriteBounds a retourné false pour Under_13
+TryGetSpriteBounds a retourné false pour Under_14_right
+TryGetSpriteBounds a retourné false pour Under_13_right
+TryGetSpriteBounds a retourné false pour Under_13_bot
+TryGetSpriteBounds a retourné false pour Under_13_right_mid
+TryGetSpriteBounds a retourné false pour Under_16_b
+TryGetSpriteBounds a retourné false pour Under_17
+TryGetSpriteBounds a retourné false pour Under_17_2
+TryGetSpriteBounds a retourné false pour Under_17_top
+TryGetSpriteBounds a retourné false pour Under_18
+TryGetSpriteBounds a retourné false pour Under_18_2
+TryGetSpriteBounds a retourné false pour Under_19
+TryGetSpriteBounds a retourné false pour Under_19b
+TryGetSpriteBounds a retourné false pour Under_19c
+TryGetSpriteBounds a retourné false pour Under_20
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Under_21
+TryGetSpriteBounds a retourné false pour Under_23
+TryGetSpriteBounds a retourné false pour Library_11_shaft
+TryGetSpriteBounds a retourné false pour Library_11
+TryGetSpriteBounds a retourné false pour Library_11_bot
+TryGetSpriteBounds a retourné false pour Library_11_2
+TryGetSpriteBounds a retourné false pour Library_11b
+TryGetSpriteBounds a retourné false pour Library_11b_bot
+TryGetSpriteBounds a retourné false pour Library_12
+TryGetSpriteBounds a retourné false pour Library_12_2
+TryGetSpriteBounds a retourné false pour Library_12_3
+TryGetSpriteBounds a retourné false pour Library_12_4
+TryGetSpriteBounds a retourné false pour Library_12_shortcut
+TryGetSpriteBounds a retourné false pour Library_12b
+TryGetSpriteBounds a retourné false pour Dust_09_into_citadel
+TryGetSpriteBounds a retourné false pour Cog_Bench
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Cog_05_left
+TryGetSpriteBounds a retourné false pour Cog_07b
+TryGetSpriteBounds a retourné false pour Cog_10
+TryGetSpriteBounds a retourné false pour Cog_09_Destroyed
+TryGetSpriteBounds a retourné false pour Cog_09_Destroyed_bot_right
+TryGetSpriteBounds a retourné false pour Cog_10_Destroyed
+TryGetSpriteBounds a retourné false pour Cog_Dancers_Destroyed
+TryGetSpriteBounds a retourné false pour Cog_08_Destroyed
+TryGetSpriteBounds a retourné false pour Peak_04
+TryGetSpriteBounds a retourné false pour Peak_04d
+TryGetSpriteBounds a retourné false pour Peak_04c
+TryGetSpriteBounds a retourné false pour Peak_05
+TryGetSpriteBounds a retourné false pour Peak_05_top
+TryGetSpriteBounds a retourné false pour Peak_05c
+TryGetSpriteBounds a retourné false pour Peak_05c_top
+TryGetSpriteBounds a retourné false pour Peak_05d
+TryGetSpriteBounds a retourné false pour Peak_05e
+TryGetSpriteBounds a retourné false pour Peak_05e_top
+TryGetSpriteBounds a retourné false pour Peak_06
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Peak_06b
+TryGetSpriteBounds a retourné false pour Peak_07
+TryGetSpriteBounds a retourné false pour Peak_07_top
+TryGetSpriteBounds a retourné false pour Peak_07_bench
+TryGetSpriteBounds a retourné false pour Peak_08
+TryGetSpriteBounds a retourné false pour Peak_08b
+TryGetSpriteBounds a retourné false pour Peak_10
+TryGetSpriteBounds a retourné false pour Peak_12
+TryGetSpriteBounds a retourné false pour Bellway_Peak
+TryGetSpriteBounds a retourné false pour Bellway_Peak_02
+TryGetSpriteBounds a retourné false pour Peak_Mask_Maker
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour DustMazeCompassMarker
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_09_entrance
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_02
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_03
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_04
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_05
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_06
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_07
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_08
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_Last_Hall
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_Maze_crossing
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Ward_01_top_right
+TryGetSpriteBounds a retourné false pour Ward_01_mid_right
+TryGetSpriteBounds a retourné false pour Ward_02_2
+TryGetSpriteBounds a retourné false pour Ward_02_3
+TryGetSpriteBounds a retourné false pour Ward_03_2
+TryGetSpriteBounds a retourné false pour Ward_03_top
+TryGetSpriteBounds a retourné false pour Ward_05
+TryGetSpriteBounds a retourné false pour Ward_05_right
+TryGetSpriteBounds a retourné false pour Ward_04
+TryGetSpriteBounds a retourné false pour Ward_06
+TryGetSpriteBounds a retourné false pour Ward_07
+TryGetSpriteBounds a retourné false pour Ward_09
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Hang_03_top
+TryGetSpriteBounds a retourné false pour Hang_06_bank
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Hang_08_bot_right
+TryGetSpriteBounds a retourné false pour Hang_10
+TryGetSpriteBounds a retourné false pour Hang_12
+TryGetSpriteBounds a retourné false pour Hang_15
+TryGetSpriteBounds a retourné false pour Hang_16
+TryGetSpriteBounds a retourné false pour Hang_14
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Hang_17b
+TryGetSpriteBounds a retourné false pour Cog_11_Destroyed
+TryGetSpriteBounds a retourné false pour Arborium_01_bot_left
+TryGetSpriteBounds a retourné false pour Arborium_01_top
+TryGetSpriteBounds a retourné false pour Arborium_01_top_2
+TryGetSpriteBounds a retourné false pour Arborium_07
+TryGetSpriteBounds a retourné false pour Arborium_07b
+TryGetSpriteBounds a retourné false pour Arborium_08
+TryGetSpriteBounds a retourné false pour Arborium_09
+TryGetSpriteBounds a retourné false pour Arborium_11_mid
+TryGetSpriteBounds a retourné false pour Arborium_11_right
+TryGetSpriteBounds a retourné false pour Arborium_Tube
+TryGetSpriteBounds a retourné false pour Cradle_02b
+TryGetSpriteBounds a retourné false pour Tube_Hub_right
+TryGetSpriteBounds a retourné false pour Tube_Hub_Top
+TryGetSpriteBounds a retourné false pour Tube_Hub_Shortcut
+TryGetSpriteBounds a retourné false pour Cradle_01_Destroyed
+TryGetSpriteBounds a retourné false pour Cradle_03_Destroyed
+TryGetSpriteBounds a retourné false pour Song_Tower_Destroyed
+TryGetSpriteBounds a retourné false pour Tube_Hub_Destroyed
+TryGetSpriteBounds a retourné false pour Song_Tower_Destroyed_Top
+TryGetSpriteBounds a retourné false pour Song_Tower_Destroyed_Bot
+TryGetSpriteBounds a retourné false pour Coral_11
+TryGetSpriteBounds a retourné false pour Coral_19b
+TryGetSpriteBounds a retourné false pour Coral_32_arrow
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Coral_33
+TryGetSpriteBounds a retourné false pour Coral_34
+TryGetSpriteBounds a retourné false pour Coral_34_mid
+TryGetSpriteBounds a retourné false pour Coral_34_top
+TryGetSpriteBounds a retourné false pour Coral_11b
+TryGetSpriteBounds a retourné false pour Coral_35
+TryGetSpriteBounds a retourné false pour Coral_35_secret
+TryGetSpriteBounds a retourné false pour Coral_36
+TryGetSpriteBounds a retourné false pour Coral_35_top_break_base_bottom
+TryGetSpriteBounds a retourné false pour Coral_37
+TryGetSpriteBounds a retourné false pour Coral_37_right
+TryGetSpriteBounds a retourné false pour Coral_37_join
+TryGetSpriteBounds a retourné false pour Coral_42
+TryGetSpriteBounds a retourné false pour Coral_42_top
+TryGetSpriteBounds a retourné false pour Coral_43
+TryGetSpriteBounds a retourné false pour Room_Pinstress
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Crawl_03
+TryGetSpriteBounds a retourné false pour Crawl_03b
+TryGetSpriteBounds a retourné false pour Crawl_05
+TryGetSpriteBounds a retourné false pour Crawl_06
+TryGetSpriteBounds a retourné false pour Crawl_07
+TryGetSpriteBounds a retourné false pour Crawl_08
+TryGetSpriteBounds a retourné false pour Crawl_09
+TryGetSpriteBounds a retourné false pour Crawl_10
+TryGetSpriteBounds a retourné false pour Wisp_02
+TryGetSpriteBounds a retourné false pour Wisp_04
+TryGetSpriteBounds a retourné false pour Wisp_05
+TryGetSpriteBounds a retourné false pour Wisp_07
+TryGetSpriteBounds a retourné false pour Wisp_08
+TryGetSpriteBounds a retourné false pour Wisp_09
+TryGetSpriteBounds a retourné false pour Belltown_08
+TryGetSpriteBounds a retourné false pour Dust_09
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Dust_09_right
+TryGetSpriteBounds a retourné false pour Dust_09_into_citadel
+TryGetSpriteBounds a retourné false pour Dust_09_top_2
+TryGetSpriteBounds a retourné false pour Shadow_01_top
+TryGetSpriteBounds a retourné false pour Shadow_04_left
+TryGetSpriteBounds a retourné false pour Shadow_08
+TryGetSpriteBounds a retourné false pour Shadow_08_left
+TryGetSpriteBounds a retourné false pour Shadow_09_right
+TryGetSpriteBounds a retourné false pour Shadow_10
+TryGetSpriteBounds a retourné false pour Shadow_10_right
+TryGetSpriteBounds a retourné false pour Shadow_10_top
+TryGetSpriteBounds a retourné false pour Shadow_11
+TryGetSpriteBounds a retourné false pour Shadow_11_top
+TryGetSpriteBounds a retourné false pour Shadow_12
+TryGetSpriteBounds a retourné false pour Shadow_13
+TryGetSpriteBounds a retourné false pour Shadow_16
+TryGetSpriteBounds a retourné false pour Shadow_15_bot
+TryGetSpriteBounds a retourné false pour Shadow_18
+TryGetSpriteBounds a retourné false pour Shadow_18_top
+TryGetSpriteBounds a retourné false pour Shadow_Bilehaven_Room
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Shadow_19
+TryGetSpriteBounds a retourné false pour Shadow_20
+TryGetSpriteBounds a retourné false pour Shadow_20_top
+TryGetSpriteBounds a retourné false pour Shadow_20_right
+TryGetSpriteBounds a retourné false pour Shadow_20_bot_left
+TryGetSpriteBounds a retourné false pour Shadow_21
+TryGetSpriteBounds a retourné false pour Shadow_22
+TryGetSpriteBounds a retourné false pour Shadow_24
+TryGetSpriteBounds a retourné false pour Shadow_25
+TryGetSpriteBounds a retourné false pour Shadow_27_right
+TryGetSpriteBounds a retourné false pour Shadow_28
+TryGetSpriteBounds a retourné false pour Organ_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Shadow_Weavehome
+TryGetSpriteBounds a retourné false pour Shadow_Weavehome_right
+TryGetSpriteBounds a retourné false pour Abyss_02b_top
+TryGetSpriteBounds a retourné false pour Abyss_03_top
+TryGetSpriteBounds a retourné false pour Room_Diving_Bell_Abyss
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Room_Diving_Bell_Abyss_Fixed
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Abyss_04_right
+TryGetSpriteBounds a retourné false pour Abyss_05_top
+TryGetSpriteBounds a retourné false pour Abyss_08
+TryGetSpriteBounds a retourné false pour Abyss_09
+TryGetSpriteBounds a retourné false pour Abyss_09_ascent
+TryGetSpriteBounds a retourné false pour Abyss_09_up_connection
+TryGetSpriteBounds a retourné false pour Abyss_11
+TryGetSpriteBounds a retourné false pour Abyss_13
+TryGetSpriteBounds a retourné false pour Aqueduct_02_right
+TryGetSpriteBounds a retourné false pour Aqueduct_04
+TryGetSpriteBounds a retourné false pour Aqueduct_04_bottom
+TryGetSpriteBounds a retourné false pour Aqueduct_04_right
+TryGetSpriteBounds a retourné false pour Aqueduct_05
+TryGetSpriteBounds a retourné false pour Aqueduct_05_top
+TryGetSpriteBounds a retourné false pour Aqueduct_06
+TryGetSpriteBounds a retourné false pour Aqueduct_06_left
+TryGetSpriteBounds a retourné false pour Aqueduct_06_top
+TryGetSpriteBounds a retourné false pour Aqueduct_07_top
+TryGetSpriteBounds a retourné false pour Aqueduct_08
+TryGetSpriteBounds a retourné false pour Bellway_Aqueduct_top
+TryGetSpriteBounds a retourné false pour Room_Huntress
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Cradle_Destroyed_Challenge_01
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Cradle_Destroyed_Challenge_02
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Abandoned_Town
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Song_19_entrance_top
+TryGetSpriteBounds a retourné false pour Song_19_entrance_top_right
+TryGetSpriteBounds a retourné false pour Song_01c
+TryGetSpriteBounds a retourné false pour Under_01_left
+TryGetSpriteBounds a retourné false pour Under_01_top_right
+TryGetSpriteBounds a retourné false pour Under_01_bot
+TryGetSpriteBounds a retourné false pour Shellwood_22
+TryGetSpriteBounds a retourné false pour Under_27
+TryGetSpriteBounds a retourné false pour Under_27_bot
+TryGetSpriteBounds a retourné false pour Shellwood_11b
+BoundsSprite est null
+TryGetSpriteBounds a retourné false pour Shellwood_22_left
+Cache construit: 834 positions et 834 bounds de scènes
+✗ Aucune scène trouvée pour 'Seth - Fleatopia' à (0.8717, -0.4735) → pos carte (2963.8, 1470.2)
+✗ Aucune scène trouvée pour 'Bench - Weavenest Cindril' à (0.6539, -0.4664) → pos carte (3064.3, -1628.6)
+✗ Aucune scène trouvée pour 'Guardian's Memento' à (0.8738, -0.4734) → pos carte (2965.4, 1499.7)
+✗ Aucune scène trouvée pour 'Craftmetal' à (0.8728, -0.4312) → pos carte (3565.5, 1485.0)
+✗ Aucune scène trouvée pour 'Shell Shards' à (0.8763, -0.4425) → pos carte (3405.6, 1534.5)
+✗ Aucune scène trouvée pour 'Sharpdart' à (0.6973, -0.9620) → pos carte (-3996.7, -1011.4)
+✗ Aucune scène trouvée pour 'Throwing Ring' à (0.8612, -0.4408) → pos carte (3429.6, 1319.6)
+✗ Aucune scène trouvée pour 'Servitor Ignim' à (0.6555, -0.4664) → pos carte (3064.8, -1606.8)
+✗ Aucune scène trouvée pour 'Passing of the Age' à (0.8864, -0.4474) → pos carte (3334.9, 1678.6)
+✗ Aucune scène trouvée pour 'Trail's End' à (0.8634, -0.4408) → pos carte (3428.6, 1351.3)
+✗ Aucune scène trouvée pour 'Passing of the Age' à (0.8885, -0.4475) → pos carte (3333.6, 1708.5)
+✗ Aucune scène trouvée pour 'Transported' à (0.6073, -0.5701) → pos carte (1587.1, -2291.9)
+✗ Aucune scène trouvée pour 'Extended' à (0.6074, -0.5676) → pos carte (1623.4, -2291.2)
+✗ Aucune scène trouvée pour 'Connected' à (0.6074, -0.5651) → pos carte (1657.9, -2290.9)
+✗ Aucune scène trouvée pour 'Consumed' à (0.6074, -0.5628) → pos carte (1691.6, -2289.9)
+✗ Aucune scène trouvée pour 'Cartographer' à (0.6075, -0.5604) → pos carte (1725.6, -2289.7)
+✗ Aucune scène trouvée pour 'Masked' à (0.6076, -0.5580) → pos carte (1759.5, -2288.2)
+✗ Aucune scène trouvée pour 'Woven' à (0.6077, -0.5558) → pos carte (1791.5, -2286.4)
+✗ Aucune scène trouvée pour 'Arsenal' à (0.6077, -0.5536) → pos carte (1822.7, -2285.8)
+✗ Aucune scène trouvée pour 'Completion' à (0.6080, -0.5448) → pos carte (1948.2, -2282.2)
+✗ Aucune scène trouvée pour 'Speedrunner' à (0.6079, -0.5430) → pos carte (1973.9, -2282.8)
+✗ Aucune scène trouvée pour 'Speed Completion' à (0.6080, -0.5411) → pos carte (2000.8, -2282.1)
+✗ Aucune scène trouvée pour 'Steel Soul' à (0.6055, -0.5448) → pos carte (1947.6, -2317.1)
+✗ Aucune scène trouvée pour 'Steel Heart' à (0.6056, -0.5430) → pos carte (1973.9, -2316.4)
+✗ Aucune scène trouvée pour 'Locked Trapdoor' à (0.8961, -0.9053) → pos carte (-3188.2, 1817.1)
+✗ Aucune scène trouvée pour 'Hidden Passage' à (0.8811, -0.8970) → pos carte (-3070.5, 1603.4)
+✗ Aucune scène trouvée pour 'Statue Essence' à (0.7643, -0.4363) → pos carte (3493.2, -58.9)
+✗ Aucune scène trouvée pour 'Resting Site - Putrified Ducts' à (0.8753, -0.4401) → pos carte (3439.7, 1520.3)
+=== RÉSULTATS DE L'ASSOCIATION ===
+Total associé: 1870/1898 (98.5%)
+- Par bounds exacts: 642
+- Par proximité bounds: 134
+- Par distance pure: 1094
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Mossberry
+Location has 1 media items
+Media: unedited012270 - image - https://media.mapgenie.io/storage/media/44451c86-f05a-478f-9642-9f693863432d.jpg
+[MapGamepad] Details: Mossberry
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Bench - Ruined Chapel
+Location has 1 media items
+Media: image - image - https://media.mapgenie.io/storage/media/267937dd-c9c4-4bae-b47b-224dafa35263.png
+[MapGamepad] Details: Bench - Ruined Chapel
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] No marker nearby
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Rosary
+Location has 1 media items
+Media: unedited012286 - image - https://media.mapgenie.io/storage/media/280c03b0-88e2-47f1-887f-3d29a75e34a7.jpg
+[MapGamepad] Details: Rosary
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Arena Battle
+Location has 1 media items
+Media: unedited012726 - image - https://media.mapgenie.io/storage/media/a83a8a21-969e-4172-8481-9dcc37498279.jpg
+[MapGamepad] Details: Arena Battle
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+Affichage des détails pour Skull Scuttler
+Location has 1 media items
+Media: unedited012723 - image - https://media.mapgenie.io/storage/media/95d7ee14-a6eb-46b5-8612-7aac9e769489.jpg
+[MapGamepad] Details: Skull Scuttler
+[MapGamepad] Free mode - Cursor active
+Affichage des détails pour Sherma - The Marrow
+Location has 1 media items
+Media: unedited012284 - image - https://media.mapgenie.io/storage/media/2a07614e-dedc-429b-802a-4e19d673ec72.jpg
+[MapGamepad] Details: Sherma - The Marrow
+[MapGamepad] Free mode - Cursor active
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Bench - The Marrow
+Location has 1 media items
+Media: image - image - https://media.mapgenie.io/storage/media/0942aa3e-b6d0-4356-9f35-35fdcc7b2457.png
+[MapGamepad] Details: Bench - The Marrow
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+Affichage des détails pour Lore Tablet
+Location has 1 media items
+Media: image - image - https://media.mapgenie.io/storage/media/87f23922-0909-46ce-9d2a-018e7399e498.png
+[MapGamepad] Details: Lore Tablet
+[MapGamepad] Free mode - Cursor active
+Cannot use 'linearVelocity' on a static body.
+Pushing stat ALL_TOOLS_STAT value: 1/51
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] No marker nearby
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Pushing stat ALL_MAPS_STAT value: 1/28
+Pushing stat ALL_MAPS_STAT value: 2/28
+Cannot use 'linearVelocity' on a static body.
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+Affichage des détails pour Choral Commandment
+Location has 1 media items
+Media: image - image - https://media.mapgenie.io/storage/media/9e301dfe-5cfa-41bd-9e95-ea040b03f1b4.png
+[MapGamepad] Details: Choral Commandment
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+ArgumentNullException: Value cannot be null.
+Parameter name: source
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] predicate) [0x0000d] in <18954da943b84e04a5929c8b043d42ee>:0 
+  at SilkSongMapInteractive.ProgressScanner+<>c.<InitializeProgressChecks>b__7_586 (PlayerData pd) [0x00000] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.ShouldMarkerBeDisabled (MapLocation location, PlayerData playerData) [0x00019] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at SilkSongMapInteractive.ProgressScanner.SetProgressMarker () [0x000b5] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.UpdateMarkersVisibility () [0x00001] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMapUI.refreshUI () [0x00009] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ShowMap () [0x00070] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.ToggleMap () [0x00014] in <765e7164d1cc401da87fc5627f2f8547>:0 
+  at InteractiveMap.Update () [0x00073] in <765e7164d1cc401da87fc5627f2f8547>:0 
+
+[MapGamepad] Free mode - Cursor active
+Pushing stat ALL_SILK_SKILLS_STAT value: 1/6
+Cannot use 'linearVelocity' on a static body.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 656)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 21.400800 ms
+Unloading 12124 unused Assets to reduce memory usage. Loaded Objects now: 146834.
+Total: 142.424200 ms (FindLiveObjects: 11.548500 ms CreateObjectMapping: 5.339600 ms MarkObjects: 64.275500 ms  DeleteObjects: 61.259900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7854 unused Assets to reduce memory usage. Loaded Objects now: 49474.
+Total: 60.519200 ms (FindLiveObjects: 4.251900 ms CreateObjectMapping: 2.776300 ms MarkObjects: 41.883500 ms  DeleteObjects: 11.607100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.889500 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 96299.
+Total: 71.961200 ms (FindLiveObjects: 8.784300 ms CreateObjectMapping: 4.322600 ms MarkObjects: 58.561100 ms  DeleteObjects: 0.292600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 96300.
+Total: 68.599300 ms (FindLiveObjects: 6.703000 ms CreateObjectMapping: 4.094500 ms MarkObjects: 57.596600 ms  DeleteObjects: 0.204600 ms)
+
+Found 2 restore points. : Slot 3
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 2 Unused Serialized files (Serialized files now loaded: 566)
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 133185.
+Total: 89.172400 ms (FindLiveObjects: 9.501200 ms CreateObjectMapping: 4.625200 ms MarkObjects: 73.761600 ms  DeleteObjects: 1.283800 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+NullReferenceException: routine is null
+  at UnityEngine.MonoBehaviour.StartCoroutine (System.Collections.IEnumerator routine) [0x00009] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at HeroController+<Die>d__1086.MoveNext () [0x00550] in <9d3c4ed299074c2e91377d5f75e5a0ec>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+UnloadTime: 7.676900 ms
+Unloading 6540 unused Assets to reduce memory usage. Loaded Objects now: 147358.
+Total: 105.813700 ms (FindLiveObjects: 11.995800 ms CreateObjectMapping: 5.266300 ms MarkObjects: 67.588000 ms  DeleteObjects: 20.963000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 1.384900 ms
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 147160.
+Total: 89.239200 ms (FindLiveObjects: 10.481300 ms CreateObjectMapping: 4.666100 ms MarkObjects: 73.324600 ms  DeleteObjects: 0.766800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 538)
+Unloading 7830 unused Assets to reduce memory usage. Loaded Objects now: 49696.
+Total: 62.083000 ms (FindLiveObjects: 4.568600 ms CreateObjectMapping: 3.559800 ms MarkObjects: 40.442300 ms  DeleteObjects: 13.511900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 0.428500 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 5669 unused Assets to reduce memory usage. Loaded Objects now: 90867.
+Total: 77.991600 ms (FindLiveObjects: 6.768800 ms CreateObjectMapping: 4.259400 ms MarkObjects: 58.003700 ms  DeleteObjects: 8.959400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 90868.
+Total: 68.946800 ms (FindLiveObjects: 6.397100 ms CreateObjectMapping: 3.561100 ms MarkObjects: 58.684400 ms  DeleteObjects: 0.303500 ms)
+
+Save file 3 clearing...
+Save file 3 cleared
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 279 unused Assets to reduce memory usage. Loaded Objects now: 131690.
+Total: 73.016600 ms (FindLiveObjects: 9.287200 ms CreateObjectMapping: 4.914200 ms MarkObjects: 57.633300 ms  DeleteObjects: 1.181400 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Affichage des détails pour Bench - The Marrow
+Location has 1 media items
+Media: unedited012320 - image - https://media.mapgenie.io/storage/media/ce5876f2-ffe3-4d84-9d78-3c7d76d877e7.jpg
+[MapGamepad] Details: Bench - The Marrow
+[MapGamepad] Free mode - Cursor active
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+UnloadTime: 2.950600 ms
+Unloading 3429 unused Assets to reduce memory usage. Loaded Objects now: 150245.
+Total: 94.439400 ms (FindLiveObjects: 11.172300 ms CreateObjectMapping: 4.639000 ms MarkObjects: 72.812900 ms  DeleteObjects: 5.814700 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 538)
+Unloading 7771 unused Assets to reduce memory usage. Loaded Objects now: 50484.
+Total: 61.533600 ms (FindLiveObjects: 4.122800 ms CreateObjectMapping: 2.846800 ms MarkObjects: 43.621300 ms  DeleteObjects: 10.942300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 0.424700 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 5669 unused Assets to reduce memory usage. Loaded Objects now: 91579.
+Total: 77.822300 ms (FindLiveObjects: 8.806200 ms CreateObjectMapping: 4.397300 ms MarkObjects: 55.863300 ms  DeleteObjects: 8.754900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 91580.
+Total: 68.093600 ms (FindLiveObjects: 7.125900 ms CreateObjectMapping: 3.692600 ms MarkObjects: 57.063100 ms  DeleteObjects: 0.211500 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Opening_Sequence requires manual fixing.
+Failed to find tilemap in Opening_Sequence entirely.
+Opening sequence changing sequences.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 577)
+Unloading 283 unused Assets to reduce memory usage. Loaded Objects now: 116417.
+Total: 78.007100 ms (FindLiveObjects: 7.809100 ms CreateObjectMapping: 4.726500 ms MarkObjects: 63.854700 ms  DeleteObjects: 1.616100 ms)
+
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 599)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Music).
+Opening sequence changing sequences.
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-04119a77865892709af3e65442e2f32a/CAB-04119a77865892709af3e65442e2f32a.resource
+Opening sequence changing sequences.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+Couldn't find ControlReminder instance.
+UnloadTime: 1.112300 ms
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1116 unused Assets to reduce memory usage. Loaded Objects now: 153588.
+Total: 83.370400 ms (FindLiveObjects: 10.553800 ms CreateObjectMapping: 5.011500 ms MarkObjects: 65.287200 ms  DeleteObjects: 2.517300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 588)
+UnloadTime: 11.366500 ms
+Unloading 2065 unused Assets to reduce memory usage. Loaded Objects now: 146896.
+Total: 85.396200 ms (FindLiveObjects: 10.949300 ms CreateObjectMapping: 4.813600 ms MarkObjects: 64.506100 ms  DeleteObjects: 5.126600 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 538)
+Unloading 7856 unused Assets to reduce memory usage. Loaded Objects now: 50574.
+Total: 61.439900 ms (FindLiveObjects: 4.464800 ms CreateObjectMapping: 2.999200 ms MarkObjects: 42.339100 ms  DeleteObjects: 11.636300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 0.432500 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 5668 unused Assets to reduce memory usage. Loaded Objects now: 91773.
+Total: 76.616100 ms (FindLiveObjects: 7.064700 ms CreateObjectMapping: 4.246600 ms MarkObjects: 56.145400 ms  DeleteObjects: 9.159000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 91774.
+Total: 65.697400 ms (FindLiveObjects: 6.737900 ms CreateObjectMapping: 3.744800 ms MarkObjects: 55.001600 ms  DeleteObjects: 0.212700 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 573)
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 131557.
+Total: 71.626500 ms (FindLiveObjects: 9.399700 ms CreateObjectMapping: 4.682600 ms MarkObjects: 56.384000 ms  DeleteObjects: 1.159900 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+UnloadTime: 15.452200 ms
+Unloading 2138 unused Assets to reduce memory usage. Loaded Objects now: 165833.
+Total: 96.573700 ms (FindLiveObjects: 12.201800 ms CreateObjectMapping: 5.036000 ms MarkObjects: 74.199700 ms  DeleteObjects: 5.135800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 538)
+Unloading 6892 unused Assets to reduce memory usage. Loaded Objects now: 51839.
+Total: 68.729400 ms (FindLiveObjects: 4.207200 ms CreateObjectMapping: 2.939200 ms MarkObjects: 51.293900 ms  DeleteObjects: 10.288700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 0.443700 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 5668 unused Assets to reduce memory usage. Loaded Objects now: 91967.
+Total: 76.989100 ms (FindLiveObjects: 8.197200 ms CreateObjectMapping: 4.331300 ms MarkObjects: 55.673200 ms  DeleteObjects: 8.787100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 91968.
+Total: 68.964300 ms (FindLiveObjects: 6.610500 ms CreateObjectMapping: 4.190700 ms MarkObjects: 57.955300 ms  DeleteObjects: 0.207100 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 573)
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 131751.
+Total: 89.803000 ms (FindLiveObjects: 9.467500 ms CreateObjectMapping: 5.220300 ms MarkObjects: 73.935600 ms  DeleteObjects: 1.179300 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
+UnloadTime: 15.619000 ms
+Unloading 2243 unused Assets to reduce memory usage. Loaded Objects now: 165749.
+Total: 88.195200 ms (FindLiveObjects: 12.337900 ms CreateObjectMapping: 5.881500 ms MarkObjects: 64.118100 ms  DeleteObjects: 5.857100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 538)
+Unloading 6787 unused Assets to reduce memory usage. Loaded Objects now: 52030.
+Total: 72.018300 ms (FindLiveObjects: 4.702100 ms CreateObjectMapping: 3.050700 ms MarkObjects: 53.714500 ms  DeleteObjects: 10.550600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 591)
+UnloadTime: 0.444900 ms
+Loaded saved language code 'ZH'
+Restored language code 'ZH'
+Unloading 5668 unused Assets to reduce memory usage. Loaded Objects now: 92161.
+Total: 77.254000 ms (FindLiveObjects: 7.460000 ms CreateObjectMapping: 4.284200 ms MarkObjects: 56.930200 ms  DeleteObjects: 8.579100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 92162.
+Total: 66.597400 ms (FindLiveObjects: 6.747300 ms CreateObjectMapping: 3.616100 ms MarkObjects: 56.024200 ms  DeleteObjects: 0.209200 ms)
+
+Shutting down Steam API.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
